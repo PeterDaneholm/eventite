@@ -1,0 +1,14 @@
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/bin/Debug/net8.0/ConsoleAppTest
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/bin/Debug/net8.0/ConsoleAppTest.deps.json
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/bin/Debug/net8.0/ConsoleAppTest.runtimeconfig.json
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/bin/Debug/net8.0/ConsoleAppTest.dll
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/bin/Debug/net8.0/ConsoleAppTest.pdb
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/obj/Debug/net8.0/ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/obj/Debug/net8.0/ConsoleAppTest.AssemblyInfoInputs.cache
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/obj/Debug/net8.0/ConsoleAppTest.AssemblyInfo.cs
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/obj/Debug/net8.0/ConsoleAppTest.csproj.CoreCompileInputs.cache
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/obj/Debug/net8.0/ConsoleAppTest.dll
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/obj/Debug/net8.0/refint/ConsoleAppTest.dll
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/obj/Debug/net8.0/ConsoleAppTest.pdb
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/obj/Debug/net8.0/ConsoleAppTest.genruntimeconfig.cache
+/Users/peter/Desktop/ComputerScience/eventite/ConsoleAppTest/obj/Debug/net8.0/ref/ConsoleAppTest.dll

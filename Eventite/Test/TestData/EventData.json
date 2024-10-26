@@ -1,0 +1,66 @@
+{
+  "title": [
+    "Weekend Getaway",
+    "Game Night",
+    "BBQ Party",
+    "Movie Marathon",
+    "Road Trip"
+  ],
+  "date": [
+    "Friday, 27th October",
+    "Saturday, 1st August",
+    "Friday, 15th September",
+    "Sunday, 10th October",
+    "Monday"
+  ],
+  "host": [
+    "John Doe",
+    "Jane Smith",
+    "Michael Johnson",
+    "Emily Davis",
+    "David Brown"
+  ],
+  "attendees": [
+    ["Alice Green", "Bob White", "Charlie Black"],
+    ["Diana Blue", "Ethan Red", "Fiona Grey"],
+    ["George Orange", "Hannah Pink", "Ian Purple"],
+    ["Jack Yellow", "Karen Indigo", "Leo Violet"],
+    ["Mia Cyan", "Noah Magenta", "Olivia Lime"]
+  ],
+  "invites": [
+    ["alice@example.com"],
+    ["diana@example.com", "ethan@example.com"],
+    ["george@example.com", "hannah@example.com", "ian@example.com", "jake@example.com"],
+    ["jack@example.com", "karen@example.com", "leo@example.com"],
+    [],
+    ["mia@example.com", "noah@example.com"]
+  ],
+  "location": [
+    "John's House",
+    "Jane's Backyard",
+    "Local Park",
+    "Emily's Apartment",
+    "Beachside Cottage"
+  ],
+  "type": [
+    "Casual",
+    "Fun",
+    "Relaxed",
+    "Adventurous",
+    "Chill"
+  ],
+  "description": [
+    "A fun weekend away with friends.",
+    "A night of games and laughter.",
+    "A BBQ party with great food and friends.",
+    "A marathon of our favorite movies.",
+    "An exciting road trip to a new place."
+  ],
+  "duration": [
+    2,
+    4,
+    8,
+    12,
+    24
+  ]
+}
